@@ -1,0 +1,17 @@
+{
+  "name": "minifyjs_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "keywords": [
+    "minify"
+  ],
+  "author": "Vinit Mohata",
+  "license": "ISC",
+  "dependencies": {
+    "minify-all": "^1.2.2"
+  }
+}
